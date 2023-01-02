@@ -472,7 +472,7 @@ $request->validate([
 - **POST** request
 - *admin* protection
 
-### `/api/search`
+### `/api/Search::run`
 
 - **POST** request
 ```php
